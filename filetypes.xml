@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="conf-bk" type="HOCON" />
       <removed_mapping ext="conf" type="HOCON" />
       <mapping ext="conf" type="nginx file type" />
